@@ -1,0 +1,6 @@
+USAGE:
+For example, scraping Apple's instagram:
+Navigate to https://www.instagram.com/apple/ in a browser
+Find JSON that contains strings that begins with this ...
+{"status": "ok", "media":
+I honeslty forget how I produced this JSON, I think I scrolled down the page until the lazy load loaded everything and built a JSON file. Writing this readme now I dont see it. Maybe they changed since I wrote this.
